@@ -27,6 +27,8 @@ module.exports = {
         "api/supervisor/endpoints",
         "api/supervisor/models",
         "api/supervisor/examples",
+        "api/supervisor/connector_endpoints",
+        "api/supervisor/connector_models",
       ],
     },
     {
